@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔥I'm currently working on strengthening my knowledge.<br><br>💡Looking to collaborate on new projects and Challenges.<br><br> 🐍 I'm currently learning Python, SQL, Data Science.<br><br> 👽 Ask me about Fun fact!
-
-[![Present](https://media.licdn.com/dms/image/C4D22AQGhliVhU0gmbQ/feedshare-shrink_1280/0/1671197862720?e=1674086400&v=beta&t=mgus-AcbOmzyKTa1YiIOx-VTa89isMqepYfkfDF627s)
+(https://media.licdn.com/dms/image/C4D22AQGhliVhU0gmbQ/feedshare-shrink_1280/0/1671197862720?e=1674086400&v=beta&t=mgus-AcbOmzyKTa1YiIOx-VTa89isMqepYfkfDF627s)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/cJsdSuKX) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Rocío Aldana Méndez](https://www.facebook.com/profile.php?id=100077715908463)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rokuznirova) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rocio Aldana Mendez) 
