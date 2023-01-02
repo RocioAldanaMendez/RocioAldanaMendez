@@ -1,4 +1,6 @@
 # 💫 About Me:
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=👋%20Hola,%20Soy%20Fernanda&fontSize=50&&color=15:92a8d1,100:f7cac9&desc=Front-End%20Developer%20💻&fontColor=ffffff&fontAlignY=35)
+
 🔥I'm currently working on strengthening my knowledge.<br><br>💡Looking to collaborate on new projects and Challenges.<br><br> 🐍 I'm currently learning Python, SQL, Data Science.
 
 ![](https://media.licdn.com/dms/image/C4D22AQGhliVhU0gmbQ/feedshare-shrink_1280/0/1671197862720?e=1674086400&v=beta&t=mgus-AcbOmzyKTa1YiIOx-VTa89isMqepYfkfDF627s)
