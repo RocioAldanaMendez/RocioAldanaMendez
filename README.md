@@ -1,5 +1,5 @@
 # 💫 About Me:
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=👋%20Hola,%20Soy%20Rocío&fontSize=50&&color=15:92a8d1,100:f7cac9&desc=Front-End%20Developer%20💻&fontColor=ffffff&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=👋%20Hola,%20Soy%20Rocío&fontSize=50&&color=15:92a8d1,100:f7cac9&desc=%20%20💻&fontColor=ffffff&fontAlignY=35)
 
 🔥I'm currently working on strengthening my knowledge.<br><br>💡Looking to collaborate on new projects and Challenges.<br><br> 🐍 I'm currently learning Python, SQL, Data Science.
 
