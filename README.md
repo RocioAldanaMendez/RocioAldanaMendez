@@ -7,7 +7,8 @@
 <br><br> 👽 Ask me about Fun fact!
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/rocio-aldana-mendez-a77a75231)
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=LinkedIn&logoColor=blue)(https://www.linkedin.com/in/rocio-aldana-mendez-a77a75231)]
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/cJsdSuKX)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rokuznirova) 
