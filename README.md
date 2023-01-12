@@ -14,7 +14,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=LinkedIn&logoColor=0a66c2)](https://www.linkedin.com/in/rocio-aldana-mendez-a77a75231)   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=00a7ce)](htttps://discord.gg/https://discord.gg/cJsdSuKX)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=c32aa3)](https://instagram.com/rokuznirova) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=LinkedIn&logoColor=0a66c2)](https://www.linkedin.com/in/rocio-aldana-mendez-a77a75231)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=00a7ce)](https://discord.gg/vfBu9hN3a4)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=c32aa3)](https://instagram.com/rokuznirova) 
 
 ## 💻 Languages and Tools:
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
