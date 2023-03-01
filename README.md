@@ -25,7 +25,7 @@
 
 <img src="https://github.com/RocioAldanaMendez/FastAPI/blob/main/aseets/gradio-logo.svg" alt="gradio" width="80" height="40"/> </a>
 <img src="https://github.com/RocioAldanaMendez/FastAPI/blob/main/aseets/FAST.png" alt="fastapi" width="80" height="40"/></a>
-<img src="https://github.com/RocioAldanaMendez/FastAPI/blob/main/aseets/logo-hugging-face.png" alt="huggingface" width="80" height="40"/> 
+<img src="https://github.com/RocioAldanaMendez/FastAPI/blob/main/aseets/logo-hugging-face.png" alt="huggingface" width="90" height="40"/> 
 <img src="https://github.com/RocioAldanaMendez/Meteorite-Landings/blob/main/assets/deta.png" alt="deta" width="40" height="40"/> 
 
 
