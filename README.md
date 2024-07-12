@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=👋%20Hello,%20I'm%20Rocío&fontSize=50&&color=15:92a8d1,100:f7cac9&desc=%20%20&fontColor=ff6347&fontAlignY=35)
 
+<h3 align="center"><em>I'm the owner of the github of the company where I currently work: https://github.com/LAB-MEETSUPER <br></em></h3>
 <h3 align="center"><em>🔥I'm currently working on strengthening my knowledge.<br></em></h3>
 <h3 align="center"><em>💡Looking to collaborate on new projects and Challenges.<br></em></h3>
 <h3 align="center"><em> 🐍 I'm currently learning Python & Data Science.</em></h3>
