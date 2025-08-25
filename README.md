@@ -4,7 +4,7 @@
 
 <h3 align="center"><em>🔥I'm currently working on strengthening my knowledge.<br></em></h3>
 <h3 align="center"><em>💡Looking to collaborate on new projects and Challenges.<br></em></h3>
-<h3 align="center"><em> 🐍 I'm currently learning Python & Data Science.</em></h3>
+<h3 align="center"><em> 🐍 I'm currently learning Python, JAVA, Data Science and Languages</em></h3>
 <h3 align="center"><em> 👽 Ask me about Fun fact!</em></h3>
 
 
@@ -14,9 +14,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=LinkedIn&logoColor=0a66c2)](https://www.linkedin.com/in/rocio-aldana-mendez-a77a75231)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237289DA.svg?logo=LinkedIn&logoColor=0a66c2)](https://www.linkedin.com/in/rocio-aldana-mendez)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=00a7ce)](https://discord.gg/vfBu9hN3a4)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ia.devs.lovers)
 
 ## 💻 Languages and Tools:
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
